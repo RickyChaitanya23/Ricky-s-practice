@@ -1,0 +1,23 @@
+{
+  "name": "ricky-s-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickyChaitanya23/Ricky-s-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickyChaitanya23/Ricky-s-practice/issues"
+  },
+  "homepage": "https://github.com/RickyChaitanya23/Ricky-s-practice#readme",
+  "dependencies": {
+    "cypress": "^13.15.2"
+  }
+}
